@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "OJIGI feat. SHUNTO (BE:FIRST), RYOKI (BE:FIRST)",
+  "base_artist": "Novel Core",
+  "createdAt": "2025-12-28T16:39:00.307976Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "OJIGI feat. SHUNTO (BE:FIRST), RYOKI (BE:FIRST)",
+      "artist": "Novel Core",
+      "has_synced": false,
+      "path": "select/pl_01_OJIGI_feat._SHUNTO_(BE_FIRST),_RYOKI_(BE_FIRST)_Novel_Core.txt"
+    }
+  ]
+}
